@@ -1,2 +1,6 @@
-#node_modules/
+# Em vez de ignorar tudo
+# ignora apenas ficheiros temporários
+Backend/node_modules/
+Frontend/node_modules/
+*.log
 .env
